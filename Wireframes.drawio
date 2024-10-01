@@ -499,7 +499,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Product Catalog Page" id="dWJltBWnGizO3ND91b44">
-    <mxGraphModel dx="1059" dy="560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="rBRlwBzhQFM-HhhP3QVJ-0" />
         <mxCell id="rBRlwBzhQFM-HhhP3QVJ-1" parent="rBRlwBzhQFM-HhhP3QVJ-0" />
@@ -754,11 +754,14 @@
         <mxCell id="4YS0Uai1i_qIdrPnfHk7-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SOME&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;TEXT&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rBRlwBzhQFM-HhhP3QVJ-1">
           <mxGeometry x="58" y="132" width="113" height="69" as="geometry" />
         </mxCell>
+        <mxCell id="3As6jNoUd6e7TyS1yZo4-0" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="rBRlwBzhQFM-HhhP3QVJ-1">
+          <mxGeometry x="794.5" y="873" width="23" height="23" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Product Page" id="qg0M06xUIN7GQbVoUMX9">
-    <mxGraphModel dx="934" dy="494" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="1050" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="UMbYOPV1ZOlwhDmnPyLX-0" />
         <mxCell id="UMbYOPV1ZOlwhDmnPyLX-1" parent="UMbYOPV1ZOlwhDmnPyLX-0" />
